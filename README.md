@@ -15,7 +15,7 @@ Here, I share with you all my passion projects, coding, schemes and procces of m
 * **The Art: device's & machine's prototypes -** 
 
 ## Leadership & Community Impact
-# Founder & Mentor -> IT club for young programmers (6-7th grades)
+* **Founder & Mentor -> IT club for young programmers (6-7th grades)**
 
 
 # My GitHub Stats
