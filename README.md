@@ -1,17 +1,22 @@
-# Welcome to my GitHub Profile!
+### Welcome to my GitHub Profile!
 
-I am a young IT specialist, ML engineer and scientist in Physics.
+# I am a 15-year-old IT specialist, ML engineer and scientist in Physics.
 Here, I share with you all my passion projects, coding, schemes and procces of my work! 
 
 -----------
 
-## My tech stack 
+## Projects
+* **Research: Exoplanet visualization**
 
-# IT
+## My tech & scientific & creative stack 
+* **AI/ML: Python - NumPy, Pandas, Matplotlib**
+* **Software engineering: C++, Java, C#**
+* **The Physics: Quantum physics, Classical mechanincs, Astrophysics**
+* **The Art: device's & machine's prototypes -** 
 
-# AI/ML engineering & Data Science
+## Leadership & Community Impact
+# Founder & Mentor -> IT club for young programmers (6-7th grades)
 
-# Physics & Simulations
 
 # My GitHub Stats
 
